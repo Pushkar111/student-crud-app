@@ -21,8 +21,8 @@ public class OtpSendByEmail
 		//        String recipientEmail  = recipientEmail;
 		
         // Sender's email ID and password
-        final String senderEmail = "pushkarmodi111@gmail.com";
-        final String senderPassword = "jurg dkrl clel oyjo";
+        final String senderEmail = "YOUR_GMAIL";
+        final String senderPassword = "YOUR_APP_PASSWORD"; // Your Gmail password for application-specific password
 
         // Generate OTP
 //        String otp = generateOTP(6); // 6-digit OTP
